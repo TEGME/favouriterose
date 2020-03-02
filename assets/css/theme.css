@@ -7911,3 +7911,6 @@ span.logo-text {
 
 section#audience-section {
   background-color: #f6f8fc; }
+
+a.btn {
+  margin: 10px 0; }
