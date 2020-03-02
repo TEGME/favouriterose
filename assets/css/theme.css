@@ -7906,4 +7906,8 @@ a.theme-link {
 .site-logo {
   text-align: center; }
 
-/*# sourceMappingURL=theme.css.map */
+span.logo-text {
+  font-family: Quicksand, sans-serif; }
+
+section#audience-section {
+  background-color: #f6f8fc; }
